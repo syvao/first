@@ -1,3 +1,4 @@
+//変更
 package com.github.clock.swing;
 
 import java.awt.BasicStroke;
